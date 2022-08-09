@@ -75,5 +75,5 @@ We would appreciate it if locations in decimal degrees are recorded to at least 
 
 ## Acknowledgement
 
-Thank you Anton Van de Putte for giving the presentation and our student intern Aaron Roex for assisting the session. I thank myself for being awesome.
+Thank you Anton Van de Putte for giving the presentation and our student intern Aaron Roex for assisting the workshop organization. We appreciate everyone who attended the sessions. I thank myself for being awesome.
 
