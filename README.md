@@ -9,7 +9,7 @@ The SCAR Antarctic Biodiversity Portal is a community effort that supports the p
 
 ## Antarctic and Southern Ocean biodiversity Special Issue - Biodiversity Data Journal
 
-We are still open for submissions. If you would like to submit your dataset for this special issue, please send an email to avandeputte(a)naturalsciences.be
+We are still open for submissions. If you would like to submit your dataset for this special issue, please send an email to data-biodiversity-aq(a)naturalsciences.be
 
 ## Q&A
 
