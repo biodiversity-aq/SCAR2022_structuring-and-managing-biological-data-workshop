@@ -21,9 +21,11 @@ We recommend to publish microbial data using DNA-derived data extension accordin
 
 When you login to [https://arpha.pensoft.net/](https://arpha.pensoft.net/), click on the "View dashboard" button. Your manuscripts should be listed in the dashboard.
 
-### Which publishing organization to select in IPT? 
+### Which publishing organization to select in Integrated Publishing Toolkit (IPT)? 
 
-The publishing organizations in IPT is not a free text field. There are only a number of organizations that are associated with an IPT instance. If you are publishing the dataset with another IPT instances than [ours](https://ipt.biodiversity.aq), please select the organization responsible for publishing (producing, releasing, holding) the dataset. It will be used as the resource's publishing organization when registering this resource with GBIF and when submitting metadata during DOI registrations. It will also be used to auto-generate the citation for the resource (if auto-generation is turned on), so consider the prominence of the role. Please be aware your selection cannot be changed after the resource has been either registered with GBIF or assigned a DOI. 
+The publishing organizations in IPT is not a free text field. There are only a number of organizations that are associated with an IPT instance. If you are publishing the dataset with another IPT instance other than [ours](https://ipt.biodiversity.aq), please select the organization responsible for publishing (producing, releasing, holding) the dataset. It will be used as the resource's publishing organization when registering this resource with GBIF and when submitting metadata during DOI registrations. It will also be used to auto-generate the citation for the resource (if auto-generation is turned on), so consider the prominence of the role. Please be aware your selection cannot be changed after the resource has been either registered with GBIF or assigned a DOI. 
+
+You may want to consider adding the antarctic dataset to the [SCAR Network](https://www.gbif.org/network/8534dd20-c368-4a1f-bdaf-e6b390710f89) upon publishing it via the IPT. 
 
 ### Requests for data providers
 
