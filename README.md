@@ -21,9 +21,9 @@ We recommend to publish microbial data using DNA-derived data extension accordin
 
 When you login to [https://arpha.pensoft.net/](https://arpha.pensoft.net/), click on the "View dashboard" button. Your manuscripts should be listed in the dashboard.
 
-### Which publishing organization to select in IPT 
+### Which publishing organization to select in IPT? 
 
-The publishing organizations in IPT is not a free text field. There are only a number of organizations that are associated with an IPT instances. If you are publishing the dataset with another IPT instances than [ours](https://ipt.biodiversity.aq), please select the organization responsible for publishing (producing, releasing, holding) the dataset. It will be used as the resource's publishing organization when registering this resource with GBIF and when submitting metadata during DOI registrations. It will also be used to auto-generate the citation for the resource (if auto-generation is turned on), so consider the prominence of the role. Please be aware your selection cannot be changed after the resource has been either registered with GBIF or assigned a DOI.
+The publishing organizations in IPT is not a free text field. There are only a number of organizations that are associated with an IPT instance. If you are publishing the dataset with another IPT instances than [ours](https://ipt.biodiversity.aq), please select the organization responsible for publishing (producing, releasing, holding) the dataset. It will be used as the resource's publishing organization when registering this resource with GBIF and when submitting metadata during DOI registrations. It will also be used to auto-generate the citation for the resource (if auto-generation is turned on), so consider the prominence of the role. Please be aware your selection cannot be changed after the resource has been either registered with GBIF or assigned a DOI. 
 
 ### Requests for data providers
 
@@ -75,5 +75,5 @@ We would appreciate it if locations in decimal degrees are recorded to at least 
 
 ## Acknowledgement
 
-Thank you Anton Van de Putte for giving the presentation and our student intern Aaron Roex for assisting the workshop organization. We appreciate everyone who attended the sessions. I thank myself for being awesome.
+Thank you Anton Van de Putte for giving the presentation and our student intern Aaron Roex for assisting the workshop organization. We appreciate everyone who attended the workshop. I thank myself for being awesome.
 
