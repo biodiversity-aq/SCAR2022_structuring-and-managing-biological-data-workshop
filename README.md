@@ -73,3 +73,7 @@ We would appreciate it if locations in decimal degrees are recorded to at least 
 - Publishing DNA-derived data through biodiversity data platforms: https://docs.gbif.org/publishing-dna-derived-data/1.0/en/
 - Pensoft guidelines: https://zookeys.pensoft.net/about#AuthorGuidelines
 
+## Acknowledgement
+
+Thank you Anton Van de Putte for giving the presentation and our student intern Aaron Roex for assisting the session. I thank myself for being awesome.
+
