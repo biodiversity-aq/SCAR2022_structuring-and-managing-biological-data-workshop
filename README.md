@@ -13,6 +13,13 @@ We are still open for submissions. If you would like to submit your dataset for 
 
 ## Q&A
 
+### What to expect for publication of this data paper?
+
+Two publications are expected:
+
+- We expect the dataset to be published to [GBIF](https://www.gbif.org/) and [OBIS](https://obis.org/) (if it is a marine dataset). You can do it through us or other GBIF/OBIS nodes. To publish the dataset to GBIF and OBIS, the dataset has to be compliant to [Darwin Core standard](https://dwc.tdwg.org/terms/). We uses [Integrated Publishing Toolkit (IPT)](https://ipt.biodiversity.aq/) to publish the dataset into Darwin Core Archive which is then harvested by GBIF and OBIS.
+- The data paper will be submitted through [ARPHA platform](https://arpha.pensoft.net/). See more in the [slides](https://raw.githubusercontent.com/biodiversity-aq/SCAR2022_structuring-and-managing-biological-data-workshop/main/slides/2022-08-08_SCAR-data-workshop.pdf)
+
 ### Submission of microbial data
 
 We recommend to publish microbial data using DNA-derived data extension according to GBIF's guidelines - [Publishing DNA-derived data through biodiversity data platforms](https://docs.gbif.org/publishing-dna-derived-data/1.0/en/). Perhaps [section 2.1](https://docs.gbif.org/publishing-dna-derived-data/1.0/en/#categorization-of-your-data) onwards is most relevant for your reading.
