@@ -27,15 +27,20 @@ The publishing organizations in IPT is not a free text field. There are only a n
 
 You may want to consider adding the antarctic dataset to the [SCAR Network](https://www.gbif.org/network/8534dd20-c368-4a1f-bdaf-e6b390710f89) upon publishing it via the IPT. 
 
-### Acknowledging the funders
+### How to acknowledge the funders if your data paper publication will be funded by us?
 
-If the SCAR Antarctic Biodiversity Portal funds you to publish the data paper, please include the following line in acknowledging the funders:
+If the SCAR Antarctic Biodiversity Portal funds you to publish the data paper, please include the following line in acknowledging the funders in the metadata (EML):
 
 > The publication of this data paper was funded by the Belgian Science Policy Office (BELSPO, contract n°FR/36/AN1/AntaBIS) in the Framework of EU-Lifewatch as a contribution the the SCAR Antarctic biodiveristy portal (biodiversity.aq)
 
 ### Requests for data providers
 
 We would appreciate it if locations in decimal degrees are recorded to at least and ideally 4 decimal places.
+
+### Deadline
+
+We currently set the deadline to be 31 March 2023 for the data paper publication 
+
 
 
 ## Useful resources
