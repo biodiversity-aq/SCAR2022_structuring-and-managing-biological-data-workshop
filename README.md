@@ -38,7 +38,7 @@ You may want to consider adding the antarctic dataset to the [SCAR Network](http
 
 If the SCAR Antarctic Biodiversity Portal funds you to publish the data paper, please include the following line in acknowledging the funders in the metadata (EML):
 
-> The publication of this data paper was funded by the Belgian Science Policy Office (BELSPO, contract n°FR/36/AN1/AntaBIS) in the Framework of EU-Lifewatch as a contribution to the SCAR Antarctic biodiveristy portal (biodiversity.aq)
+> The publication of this data paper was funded by the Belgian Science Policy Office (BELSPO, contract n°FR/36/AN1/AntaBIS) in the Framework of EU-Lifewatch as a contribution to the SCAR Antarctic biodiversity portal (biodiversity.aq)
 
 ### Requests for data providers
 
